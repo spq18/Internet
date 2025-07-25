@@ -1,0 +1,12 @@
+Update 2.0.5 - 25/07/25
+MEGAHITS link is broken. Link is updated in site.
+FUNDAÇÃO link is broken.
+
+
+Update 2.0.0 - 23/06/24
+Overall change to CSS of site.
+Better UI.
+
+Update 1.0.0 - 09/09/22
+Creation of the site.
+Old version available at https://spq18.github.io/Internet/onlineradioplayer.html
